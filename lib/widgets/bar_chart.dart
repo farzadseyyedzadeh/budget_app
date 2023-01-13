@@ -37,7 +37,7 @@ class BarChart extends StatelessWidget {
               ),
               Flexible(
                 child: Text(
-                  'Nov 10, 2019 - Nov 16, 2019',
+                  'Nov 10, 2022 - Nov 16, 2022',
                   style: TextStyle(
                     fontSize: 18.0,
                     fontWeight: FontWeight.w600,
